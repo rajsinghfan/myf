@@ -139,7 +139,7 @@ def tui():
 {S}[ ᴛᴏᴋᴇɴ ᴇʀʀᴏʀs ]: {E}{token_errors} ❌
 
 {G}[ ᴛʜʀᴇᴀᴅs ]: {B}{active_count()} ⇝⇝⇝⇝ ''')
-        sleep(300);clear_output(wait=True)
+        sleep(60);clear_output(wait=True)
 
 clear_output()
 print(logo)
